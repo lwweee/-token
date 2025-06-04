@@ -170,5 +170,4 @@
 - 🚀[申请领取内测免费API Key](https://api.chatanywhere.org/v1/oauth/free/render) 或 [购买内测付费API Key](https://api.rcouyi.com/register?aff=5kMw)
 - 测试区服务转发Host1: `https://api.chatanywhere.tech` (国内中转，延时更低)
 - 测试区服务转发Host2: `https://api.chatanywhere.org` (国外使用)
-- 余额和使用记录查询（通知公告也会发在这里）: [余额查询及公告](https://api.chatanywhere.tech/)
 - 测试区服务和付费版服务分中转Host服务器不同，具体请自行前往[付费key购买页面](https://api.rcouyi.com/register?aff=5kMw)
